@@ -1,0 +1,19 @@
+h1{
+    background-color: yellow;
+    color: green;
+    display: inline;
+}
+h3{
+    background-color: yellow;
+    color: green;
+    display: inline;
+}
+body{
+    background-color: black;
+    text-align: center;
+}
+button{
+    width: 6%;
+    height: 7%;
+    background-color: rgba(red, green, blue, alpha); animation: 3s;
+}
